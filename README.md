@@ -5,3 +5,7 @@ data set source: https://www.kaggle.com/datasets/blurredmachine/are-your-employe
 some resources:
 
 https://towardsdatascience.com/catboost-regression-in-6-minutes-3487f3e5b329
+
+data analysis:
+
+![Untitled1](https://github.com/user-attachments/assets/aa75da7a-f4f7-47bf-9e28-bc3bc4f3f321)
