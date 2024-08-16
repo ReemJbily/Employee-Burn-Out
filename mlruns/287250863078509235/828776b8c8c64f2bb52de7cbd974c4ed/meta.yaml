@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/828776b8c8c64f2bb52de7cbd974c4ed/artifacts
+end_time: 1723619309941
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: 828776b8c8c64f2bb52de7cbd974c4ed
+run_name: angry-finch-637
+run_uuid: 828776b8c8c64f2bb52de7cbd974c4ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723619309522
+status: 4
+tags: []
+user_id: Windows.10

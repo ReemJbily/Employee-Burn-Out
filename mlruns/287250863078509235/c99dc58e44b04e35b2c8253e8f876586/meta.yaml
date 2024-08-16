@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/c99dc58e44b04e35b2c8253e8f876586/artifacts
+end_time: 1723567566704
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: c99dc58e44b04e35b2c8253e8f876586
+run_name: magnificent-cub-663
+run_uuid: c99dc58e44b04e35b2c8253e8f876586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567562903
+status: 4
+tags: []
+user_id: Windows.10

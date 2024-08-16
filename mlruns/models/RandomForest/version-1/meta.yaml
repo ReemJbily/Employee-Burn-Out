@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723567206245
+current_stage: None
+description: null
+last_updated_timestamp: 1723567206245
+name: RandomForest
+run_id: 4a490bd9e7a5421bbe66d5ad040340aa
+run_link: null
+source: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/4a490bd9e7a5421bbe66d5ad040340aa/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/4a490bd9e7a5421bbe66d5ad040340aa/artifacts/model
+user_id: null
+version: 1

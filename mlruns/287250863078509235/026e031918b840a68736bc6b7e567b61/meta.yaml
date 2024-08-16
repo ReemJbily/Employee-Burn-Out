@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/026e031918b840a68736bc6b7e567b61/artifacts
+end_time: 1723620672736
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: 026e031918b840a68736bc6b7e567b61
+run_name: likeable-eel-556
+run_uuid: 026e031918b840a68736bc6b7e567b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620662781
+status: 3
+tags: []
+user_id: Windows.10

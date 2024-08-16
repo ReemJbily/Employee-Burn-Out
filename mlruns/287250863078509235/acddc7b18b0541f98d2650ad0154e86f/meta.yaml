@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/acddc7b18b0541f98d2650ad0154e86f/artifacts
+end_time: 1723620122479
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: acddc7b18b0541f98d2650ad0154e86f
+run_name: likeable-calf-691
+run_uuid: acddc7b18b0541f98d2650ad0154e86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620122444
+status: 4
+tags: []
+user_id: Windows.10

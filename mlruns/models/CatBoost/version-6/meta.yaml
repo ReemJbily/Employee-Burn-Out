@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723620286344
+current_stage: None
+description: null
+last_updated_timestamp: 1723620286344
+name: CatBoost
+run_id: 8a5ca81b45f94effade551b90d51000e
+run_link: null
+source: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/8a5ca81b45f94effade551b90d51000e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/8a5ca81b45f94effade551b90d51000e/artifacts/model
+user_id: null
+version: 6

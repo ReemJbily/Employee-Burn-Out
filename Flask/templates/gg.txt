@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Predicted Burn Out Rate</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Your Predicted Burn Out Rate</h1>
+        {% if prediction_result %}
+            <p>Your predicted burn out rate is: {{ prediction_result }}</p>
+        {% else %}
+            <p>Please go back and fill out the form.</p>
+        {% endif %}
+        <a href="/">Go Back</a>
+    </div>
+</body>
+</html>

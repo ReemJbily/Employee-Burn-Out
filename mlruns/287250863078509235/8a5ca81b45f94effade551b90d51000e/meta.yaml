@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/8a5ca81b45f94effade551b90d51000e/artifacts
+end_time: 1723620286373
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: 8a5ca81b45f94effade551b90d51000e
+run_name: invincible-lamb-796
+run_uuid: 8a5ca81b45f94effade551b90d51000e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620270221
+status: 3
+tags: []
+user_id: Windows.10

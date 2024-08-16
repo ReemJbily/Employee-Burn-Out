@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/4a490bd9e7a5421bbe66d5ad040340aa/artifacts
+end_time: 1723567206264
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: 4a490bd9e7a5421bbe66d5ad040340aa
+run_name: abrasive-calf-395
+run_uuid: 4a490bd9e7a5421bbe66d5ad040340aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567195935
+status: 3
+tags: []
+user_id: Windows.10

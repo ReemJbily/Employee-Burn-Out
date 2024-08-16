@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/1205360b1d114911b894c604918d63f9/artifacts
+end_time: 1723620122429
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: 1205360b1d114911b894c604918d63f9
+run_name: bemused-frog-458
+run_uuid: 1205360b1d114911b894c604918d63f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620107236
+status: 3
+tags: []
+user_id: Windows.10

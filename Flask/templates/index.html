@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Burn Out Rate Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Burn Out Rate Predictor</h1>
+        <form id="employee-form" action="/predict" method="post">
+            <fieldset>
+                <legend>Personal Information</legend>
+                <div class="row">
+                    <div class="column">
+                        <label for="Mental_Fatigue_Score">Mental Fatigue Score:</label>
+                        <input type="number" id="Mental_Fatigue_Score" name="Mental Fatigue Score">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column">
+                        <label for="Gender">Gender:</label>
+                        <select id="Gender" name="Gender">
+                            <option value="0">Female</option>
+                            <option value="1">Male</option>
+                        </select>
+                    </div>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Work Information</legend>
+                <div class="row">
+                    <div class="column">
+                        <label for="Company_Type">Company Type:</label>
+                        <select id="Company_Type" name="Company Type">
+                            <option value="0">Service</option>
+                            <option value="1">Product</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column">
+                        <label for="Remote">Remote:</label>
+                        <select id="Remote" name="Remote">
+                            <option value="0">Remote</option>
+                            <option value="1">On Site</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column">
+                        <label for="Designation">Designation:</label>
+                        <select id="Designation" name="Designation">
+                            <option value="0">1</option>
+                            <option value="1">2</option>
+                            <option value="2">3</option>
+                            <option value="3">4</option>
+                            <option value="4">5</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column">
+                        <label for="Resource">Resource:</label>
+                        <select id="Resource" name="Resource">
+                            <option value="0">1</option>
+                            <option value="1">2</option>
+                            <option value="2">3</option>
+                            <option value="3">4</option>
+                            <option value="4">5</option>
+                            <option value="5">6</option>
+                            <option value="6">7</option>
+                            <option value="7">8</option>
+                            <option value="8">9</option>
+                            <option value="9">10</option>
+                        </select>
+                    </div>
+                </div>
+            </fieldset>
+            <input type="submit" value="Predict Rate" class="button">
+        </form>
+    </div>
+</body>
+</html>

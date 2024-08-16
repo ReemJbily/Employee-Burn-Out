@@ -1,0 +1,57 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff9e97;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px; /* Increased for better spacing */
+}
+
+.column {
+    width: calc(100% / 3); /* Adjusted for three-column layout */
+    padding: 5px;
+    box-sizing: border-box; /* Include padding in width calculation */
+}
+
+.single-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .column {
+        width: 100%; /* Full width on smaller screens */
+    }
+}
+
+/* Button styling */
+button {
+    background-color: #fa4a4a;
+    color: rgb(54, 0, 0);
+    padding: 10px 20px; /* Increased horizontal padding for better touch targets */
+    text-align: center;
+    display: block; /* Changed to block for full width */
+    font-size: 15px;
+    margin-top: 30px;
+    cursor: pointer;
+    border-radius: 5px; /* Rounded corners for a modern look */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+button:hover {
+    background-color: #0056b3;
+}

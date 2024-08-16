@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/27b36b9c48be43b682743885d31be5ae/artifacts
+end_time: 1723620403960
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: 27b36b9c48be43b682743885d31be5ae
+run_name: honorable-gnat-954
+run_uuid: 27b36b9c48be43b682743885d31be5ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620403635
+status: 4
+tags: []
+user_id: Windows.10

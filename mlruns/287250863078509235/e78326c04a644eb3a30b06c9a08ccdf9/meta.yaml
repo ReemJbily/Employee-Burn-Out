@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/e78326c04a644eb3a30b06c9a08ccdf9/artifacts
+end_time: 1723619318310
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: e78326c04a644eb3a30b06c9a08ccdf9
+run_name: serious-penguin-644
+run_uuid: e78326c04a644eb3a30b06c9a08ccdf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723619318220
+status: 4
+tags: []
+user_id: Windows.10

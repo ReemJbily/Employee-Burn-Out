@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/287250863078509235/180a0c633e464c46bfa62b45ebd9a46b/artifacts
+end_time: 1723620584729
+entry_point_name: ''
+experiment_id: '287250863078509235'
+lifecycle_stage: active
+run_id: 180a0c633e464c46bfa62b45ebd9a46b
+run_name: enthused-cod-953
+run_uuid: 180a0c633e464c46bfa62b45ebd9a46b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620584608
+status: 4
+tags: []
+user_id: Windows.10
