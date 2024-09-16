@@ -1,0 +1,29 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 2.13.2
+model_size_bytes: 3716516
+model_uuid: 2d366708446c4a8bafb36fbf3d6f7cc3
+run_id: c32068dfe32f4d369033d1144b146442
+signature:
+  inputs: '[{"type": "long", "name": "Gender", "required": true}, {"type": "long",
+    "name": "Company Type", "required": true}, {"type": "long", "name": "Remote",
+    "required": true}, {"type": "double", "name": "Designation", "required": true},
+    {"type": "double", "name": "Resource", "required": true}, {"type": "double", "name":
+    "Mental Fatigue Score", "required": true}, {"type": "double", "name": "Work Period",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-09-15 17:07:59.335373'

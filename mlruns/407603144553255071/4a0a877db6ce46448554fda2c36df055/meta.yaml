@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/407603144553255071/4a0a877db6ce46448554fda2c36df055/artifacts
+end_time: 1725270813496
+entry_point_name: ''
+experiment_id: '407603144553255071'
+lifecycle_stage: active
+run_id: 4a0a877db6ce46448554fda2c36df055
+run_name: bold-crane-566
+run_uuid: 4a0a877db6ce46448554fda2c36df055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725270793423
+status: 3
+tags: []
+user_id: Windows.10

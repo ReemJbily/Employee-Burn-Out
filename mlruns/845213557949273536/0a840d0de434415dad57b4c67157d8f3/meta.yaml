@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/0a840d0de434415dad57b4c67157d8f3/artifacts
+end_time: 1726420235433
+entry_point_name: ''
+experiment_id: '845213557949273536'
+lifecycle_stage: active
+run_id: 0a840d0de434415dad57b4c67157d8f3
+run_name: adaptable-zebra-378
+run_uuid: 0a840d0de434415dad57b4c67157d8f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726420226495
+status: 3
+tags: []
+user_id: Windows.10

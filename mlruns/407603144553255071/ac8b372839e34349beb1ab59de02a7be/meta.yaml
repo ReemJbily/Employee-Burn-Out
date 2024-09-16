@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/407603144553255071/ac8b372839e34349beb1ab59de02a7be/artifacts
+end_time: 1725271331182
+entry_point_name: ''
+experiment_id: '407603144553255071'
+lifecycle_stage: active
+run_id: ac8b372839e34349beb1ab59de02a7be
+run_name: agreeable-loon-350
+run_uuid: ac8b372839e34349beb1ab59de02a7be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725271313346
+status: 3
+tags: []
+user_id: Windows.10

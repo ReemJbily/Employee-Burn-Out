@@ -10,52 +10,37 @@ app=Flask(__name__)
 
 filename=r'C://Users//Windows.10//Employee-Burn-Out//burn-out-model.pk1'
 
-@app.route('/', methods=['GET', 'POST'])
-def home():
-    if request.method == 'POST':
-        # Extract form data
-        
-        return redirect(url_for('prediction', **request.form))
+
+app = Flask(__name__)
+
+
+@app.route('/')
+def index():
     return render_template('index.html')
 
-@app.route('/predict',methods=['POST'])
-def prediction():
-        gender=0
-        company_type=0
-        remote=0
-        work_period=4.0
-        data = {
-            'Gender': str(request.form['Gender']),
-            'Company_Type': str(request.form['Company Type']),
-            'Remote': str(request.form['Remote']),
-            'Designation': int(request.form['Designation']),
-            'Resource': int(request.form['Resource']),
-            'Mental_Fatigue_Score': float(request.form['Mental Fatigue Score'])
-        }
-        if data['Gender']=='Male':
-            gender=1
-        else:
-            gender=0
-        
-        if data['Company_Type']=='Service':
-            company_type=1
-        else:
-            company_type=0
+@app.route('/predict')
+def predict():
+    # Extract form data
+    work_period = 12.0
+    data = {
+        'Gender': int(request.args.get('Gender', 0)),
+        'Company_Type': int(request.args.get('Company_Type', 0)),
+        'Remote': int(request.args.get('Remote', 0)),
+        'Designation': int(request.args.get('Designation', 0)),
+        'Resource': int(request.args.get('Resource', 0)),
+        'Mental_Fatigue_Score': float(request.args.get('Mental_Fatigue_Score', 0.0))
+    }
 
-        if data['Remote']=='Remote':
-            remote=1
-        else:
-            remote=0   
-        # Convert dictionary to DataFrame
-        data_list = [gender,company_type,remote,data['Designation'],data['Resource'],
-                           data['Mental_Fatigue_Score'],work_period]
+    # Convert dictionary to DataFrame
+    data_list = [data['Gender'], data['Company_Type'], data['Remote'], data['Designation'], data['Resource'],
+                 data['Mental_Fatigue_Score'], work_period]
 
-        # Perform prediction
-
-        prediction_result = round(model.predict(data_list)*100,2)
-        return render_template('predict.html', prediction=prediction_result)
+    # Perform prediction
+    prediction_result = round(model.predict(data_list)*10000, 2)
+    if prediction_result<0:
+        prediction_result=-prediction_result
+    return render_template('predict.html', prediction=prediction_result)
 
 if __name__ == '__main__':
     model = pickle.load(open(filename, 'rb'))
-    prediction_result = None 
-    app.run(debug=True)    
+    app.run(debug=True)

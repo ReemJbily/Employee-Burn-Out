@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/563234835066685667/b5f28d3b95c6417eb4f9c50224db6e98/artifacts
+end_time: 1726420112345
+entry_point_name: ''
+experiment_id: '563234835066685667'
+lifecycle_stage: active
+run_id: b5f28d3b95c6417eb4f9c50224db6e98
+run_name: flawless-snail-691
+run_uuid: b5f28d3b95c6417eb4f9c50224db6e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726420102760
+status: 3
+tags: []
+user_id: Windows.10

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/563234835066685667/6c24719ec4fd487497e02c32605dbb3b/artifacts
+end_time: 1726420043765
+entry_point_name: ''
+experiment_id: '563234835066685667'
+lifecycle_stage: active
+run_id: 6c24719ec4fd487497e02c32605dbb3b
+run_name: chill-robin-427
+run_uuid: 6c24719ec4fd487497e02c32605dbb3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726420041865
+status: 4
+tags: []
+user_id: Windows.10

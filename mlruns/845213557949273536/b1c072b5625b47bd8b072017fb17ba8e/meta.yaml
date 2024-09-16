@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/b1c072b5625b47bd8b072017fb17ba8e/artifacts
+end_time: 1726420226475
+entry_point_name: ''
+experiment_id: '845213557949273536'
+lifecycle_stage: active
+run_id: b1c072b5625b47bd8b072017fb17ba8e
+run_name: salty-calf-962
+run_uuid: b1c072b5625b47bd8b072017fb17ba8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726420214698
+status: 3
+tags: []
+user_id: Windows.10

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/407603144553255071/f3702564e2d54cc695e36e70bd4f2105/artifacts
+end_time: 1723620902395
+entry_point_name: ''
+experiment_id: '407603144553255071'
+lifecycle_stage: active
+run_id: f3702564e2d54cc695e36e70bd4f2105
+run_name: chill-bird-484
+run_uuid: f3702564e2d54cc695e36e70bd4f2105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620902304
+status: 4
+tags: []
+user_id: Windows.10

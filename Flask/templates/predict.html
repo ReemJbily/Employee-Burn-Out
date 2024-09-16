@@ -6,8 +6,17 @@
 </head>
 <body>
     <div class="container">
-        <h1>Your Predicted Burn Out Rate</h1>
-        <p>Your predicted burn out rate is: {{ prediction }}%</p>
+        <h1>Predicted Burn Out Rate</h1>
+        <div class="lable-container">
+            <label id="predicted_id">Your predicted burn out rate is:</label>
+        </div>        
+        <div class="prediction-container">
+            <p>{{ prediction }}%</p>
+        </div>
+        <div class="link-container">
+            <a href="/">home</a>
+
+        </div>
     </div>
 </body>
 </html>

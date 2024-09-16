@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/407603144553255071/f24611477f4949de95b4b68cac536a58/artifacts
+end_time: 1725271365506
+entry_point_name: ''
+experiment_id: '407603144553255071'
+lifecycle_stage: active
+run_id: f24611477f4949de95b4b68cac536a58
+run_name: learned-owl-428
+run_uuid: f24611477f4949de95b4b68cac536a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725271331199
+status: 3
+tags: []
+user_id: Windows.10

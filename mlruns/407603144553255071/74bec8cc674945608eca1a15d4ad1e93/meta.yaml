@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/407603144553255071/74bec8cc674945608eca1a15d4ad1e93/artifacts
+end_time: 1725270822795
+entry_point_name: ''
+experiment_id: '407603144553255071'
+lifecycle_stage: active
+run_id: 74bec8cc674945608eca1a15d4ad1e93
+run_name: unequaled-asp-528
+run_uuid: 74bec8cc674945608eca1a15d4ad1e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725270813512
+status: 3
+tags: []
+user_id: Windows.10

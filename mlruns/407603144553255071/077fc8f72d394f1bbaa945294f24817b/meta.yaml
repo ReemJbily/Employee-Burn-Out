@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Users/user/mlops/work_burn_out/Employee-Burn-Out/mlruns/407603144553255071/077fc8f72d394f1bbaa945294f24817b/artifacts
+end_time: 1723620937223
+entry_point_name: ''
+experiment_id: '407603144553255071'
+lifecycle_stage: active
+run_id: 077fc8f72d394f1bbaa945294f24817b
+run_name: intelligent-seal-563
+run_uuid: 077fc8f72d394f1bbaa945294f24817b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620927210
+status: 3
+tags: []
+user_id: Windows.10

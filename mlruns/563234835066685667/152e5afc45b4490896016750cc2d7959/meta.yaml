@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/563234835066685667/152e5afc45b4490896016750cc2d7959/artifacts
+end_time: 1726419974599
+entry_point_name: ''
+experiment_id: '563234835066685667'
+lifecycle_stage: active
+run_id: 152e5afc45b4490896016750cc2d7959
+run_name: polite-deer-925
+run_uuid: 152e5afc45b4490896016750cc2d7959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726419972495
+status: 4
+tags: []
+user_id: Windows.10

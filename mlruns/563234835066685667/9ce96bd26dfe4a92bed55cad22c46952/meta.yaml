@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/563234835066685667/9ce96bd26dfe4a92bed55cad22c46952/artifacts
+end_time: 1726420102743
+entry_point_name: ''
+experiment_id: '563234835066685667'
+lifecycle_stage: active
+run_id: 9ce96bd26dfe4a92bed55cad22c46952
+run_name: suave-bear-475
+run_uuid: 9ce96bd26dfe4a92bed55cad22c46952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726420093030
+status: 3
+tags: []
+user_id: Windows.10
