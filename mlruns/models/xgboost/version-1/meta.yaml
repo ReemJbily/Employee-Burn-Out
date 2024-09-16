@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1726477173984
+current_stage: None
+description: null
+last_updated_timestamp: 1726477173984
+name: xgboost
+run_id: cbf8ef5d47e64388b94c7fc7f9ad3cd3
+run_link: null
+source: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/cbf8ef5d47e64388b94c7fc7f9ad3cd3/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/cbf8ef5d47e64388b94c7fc7f9ad3cd3/artifacts/model
+user_id: null
+version: 1

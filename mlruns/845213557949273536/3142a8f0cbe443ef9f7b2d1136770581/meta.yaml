@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/3142a8f0cbe443ef9f7b2d1136770581/artifacts
+end_time: 1726476965372
+entry_point_name: ''
+experiment_id: '845213557949273536'
+lifecycle_stage: active
+run_id: 3142a8f0cbe443ef9f7b2d1136770581
+run_name: intelligent-fish-993
+run_uuid: 3142a8f0cbe443ef9f7b2d1136770581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726476965287
+status: 4
+tags: []
+user_id: Windows.10

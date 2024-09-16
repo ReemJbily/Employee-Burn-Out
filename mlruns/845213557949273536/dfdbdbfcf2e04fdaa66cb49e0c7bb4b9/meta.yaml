@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/dfdbdbfcf2e04fdaa66cb49e0c7bb4b9/artifacts
+end_time: 1726477182311
+entry_point_name: ''
+experiment_id: '845213557949273536'
+lifecycle_stage: active
+run_id: dfdbdbfcf2e04fdaa66cb49e0c7bb4b9
+run_name: bedecked-asp-0
+run_uuid: dfdbdbfcf2e04fdaa66cb49e0c7bb4b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726477174015
+status: 3
+tags: []
+user_id: Windows.10

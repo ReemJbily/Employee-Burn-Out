@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1726479993791
+current_stage: None
+description: null
+last_updated_timestamp: 1726479993791
+name: lightgbm
+run_id: 90e693c06b45489da47445384df27f31
+run_link: null
+source: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/90e693c06b45489da47445384df27f31/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/90e693c06b45489da47445384df27f31/artifacts/model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/c3873a29edc04d57b749cd8fbff9fe2f/artifacts
+end_time: 1726477012925
+entry_point_name: ''
+experiment_id: '845213557949273536'
+lifecycle_stage: active
+run_id: c3873a29edc04d57b749cd8fbff9fe2f
+run_name: rumbling-bee-758
+run_uuid: c3873a29edc04d57b749cd8fbff9fe2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726477006395
+status: 3
+tags: []
+user_id: Windows.10

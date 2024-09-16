@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/2aa864e4a1e6458091ba42124b639ad8/artifacts
+end_time: 1726476142432
+entry_point_name: ''
+experiment_id: '845213557949273536'
+lifecycle_stage: active
+run_id: 2aa864e4a1e6458091ba42124b639ad8
+run_name: painted-sloth-223
+run_uuid: 2aa864e4a1e6458091ba42124b639ad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726476140325
+status: 4
+tags: []
+user_id: Windows.10

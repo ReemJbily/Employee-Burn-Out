@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1726477182248
+current_stage: None
+description: null
+last_updated_timestamp: 1726477182248
+name: catboost
+run_id: dfdbdbfcf2e04fdaa66cb49e0c7bb4b9
+run_link: null
+source: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/dfdbdbfcf2e04fdaa66cb49e0c7bb4b9/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/dfdbdbfcf2e04fdaa66cb49e0c7bb4b9/artifacts/model
+user_id: null
+version: 11

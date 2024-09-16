@@ -8,7 +8,7 @@ import catboost as cb
 
 app=Flask(__name__)
 
-filename=r'C://Users//Windows.10//Employee-Burn-Out//burn-out-model.pk1'
+filename=r'C://Users//Windows.10//Employee-Burn-Out//burn-out-model-catboost.pk1'
 
 
 app = Flask(__name__)

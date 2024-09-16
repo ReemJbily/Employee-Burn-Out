@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/15dcda2e1abd40d5b2f07eee6121714e/artifacts
+end_time: 1726479985252
+entry_point_name: ''
+experiment_id: '845213557949273536'
+lifecycle_stage: active
+run_id: 15dcda2e1abd40d5b2f07eee6121714e
+run_name: nosy-seal-575
+run_uuid: 15dcda2e1abd40d5b2f07eee6121714e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726479925254
+status: 3
+tags: []
+user_id: Windows.10

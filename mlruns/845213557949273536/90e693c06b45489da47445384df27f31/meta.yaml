@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows.10/Employee-Burn-Out/mlruns/845213557949273536/90e693c06b45489da47445384df27f31/artifacts
+end_time: 1726479993807
+entry_point_name: ''
+experiment_id: '845213557949273536'
+lifecycle_stage: active
+run_id: 90e693c06b45489da47445384df27f31
+run_name: fun-cub-590
+run_uuid: 90e693c06b45489da47445384df27f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726479985267
+status: 3
+tags: []
+user_id: Windows.10
