@@ -1,6 +1,7 @@
 # Employee-Burn-Out
-#### Add a new story where 3 boosting models were used:
+### Add a new story where 3 boosting models were used:
 #### 1 xgboost.
 #### 2 catboost.
 #### 3 lightgbm.
-#### Make code more efficient.
+### Make code more efficient.
+### Enhance app front end page.
